@@ -1,0 +1,12 @@
+C:\Users\EMILIA\source\repos\SamuraiApp\SamuraiApp.Data\bin\Debug\net5.0\SamuraiApp.Data.deps.json
+C:\Users\EMILIA\source\repos\SamuraiApp\SamuraiApp.Data\bin\Debug\net5.0\SamuraiApp.Data.dll
+C:\Users\EMILIA\source\repos\SamuraiApp\SamuraiApp.Data\bin\Debug\net5.0\ref\SamuraiApp.Data.dll
+C:\Users\EMILIA\source\repos\SamuraiApp\SamuraiApp.Data\bin\Debug\net5.0\SamuraiApp.Data.pdb
+C:\Users\EMILIA\source\repos\SamuraiApp\SamuraiApp.Data\obj\Debug\net5.0\SamuraiApp.Data.csprojAssemblyReference.cache
+C:\Users\EMILIA\source\repos\SamuraiApp\SamuraiApp.Data\obj\Debug\net5.0\SamuraiApp.Data.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\EMILIA\source\repos\SamuraiApp\SamuraiApp.Data\obj\Debug\net5.0\SamuraiApp.Data.AssemblyInfoInputs.cache
+C:\Users\EMILIA\source\repos\SamuraiApp\SamuraiApp.Data\obj\Debug\net5.0\SamuraiApp.Data.AssemblyInfo.cs
+C:\Users\EMILIA\source\repos\SamuraiApp\SamuraiApp.Data\obj\Debug\net5.0\SamuraiApp.Data.csproj.CoreCompileInputs.cache
+C:\Users\EMILIA\source\repos\SamuraiApp\SamuraiApp.Data\obj\Debug\net5.0\SamuraiApp.Data.dll
+C:\Users\EMILIA\source\repos\SamuraiApp\SamuraiApp.Data\obj\Debug\net5.0\ref\SamuraiApp.Data.dll
+C:\Users\EMILIA\source\repos\SamuraiApp\SamuraiApp.Data\obj\Debug\net5.0\SamuraiApp.Data.pdb
