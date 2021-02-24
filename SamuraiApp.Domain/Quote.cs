@@ -8,7 +8,7 @@ namespace SamuraiApp.Domain
     {
         public int Id { get; set; }
         public string Text { get; set; }
-        public Samurai Samusai { get; set; }
+        public Samurai Samurai { get; set; }
         public int SamuraiId { get; set; }
     }
 }

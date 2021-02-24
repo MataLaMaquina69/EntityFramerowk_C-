@@ -10,3 +10,9 @@ C:\Users\EMILIA\source\repos\SamuraiApp\SamuraiApp.Data\obj\Debug\net5.0\Samurai
 C:\Users\EMILIA\source\repos\SamuraiApp\SamuraiApp.Data\obj\Debug\net5.0\SamuraiApp.Data.dll
 C:\Users\EMILIA\source\repos\SamuraiApp\SamuraiApp.Data\obj\Debug\net5.0\ref\SamuraiApp.Data.dll
 C:\Users\EMILIA\source\repos\SamuraiApp\SamuraiApp.Data\obj\Debug\net5.0\SamuraiApp.Data.pdb
+C:\Users\EMILIA\source\repos\SamuraiApp\SamuraiApp.Data\bin\Debug\net5.0\SamuraiApp.Domain.dll
+C:\Users\EMILIA\source\repos\SamuraiApp\SamuraiApp.Data\bin\Debug\net5.0\SamuraiApp.Domain.pdb
+C:\Users\EMILIA\source\repos\SamuraiApp\SamuraiApp.Data\obj\Debug\net5.0\SamuraiApp.Data.csproj.CopyComplete
+C:\Users\EMILIA\source\repos\SamuraiApp\SamuraiApp.Data\bin\Debug\net5.0\SamuraiApp.Data.runtimeconfig.json
+C:\Users\EMILIA\source\repos\SamuraiApp\SamuraiApp.Data\bin\Debug\net5.0\SamuraiApp.Data.runtimeconfig.dev.json
+C:\Users\EMILIA\source\repos\SamuraiApp\SamuraiApp.Data\obj\Debug\net5.0\SamuraiApp.Data.genruntimeconfig.cache
